@@ -4,3 +4,4 @@ From the [Skillfactory Data Science course](https://lms.skillfactory.ru/courses/
 ## Проекты
 
 * [Проект 0. Игра: Угадай число](https://github.com/Roman19911/repository_sf/tree/main/project_0)
+* [Проект 1. Угадай число с количеством попыток не более 20](https://github.com/Roman19911/repository_sf/tree/main/project_1)
